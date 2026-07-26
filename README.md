@@ -25,13 +25,13 @@
 
 ---
 
-## `~/whoami`
+## 🧠 &nbsp;About
 
 I'm 17 and I work across the whole path a model takes — research and training, then the backend services and infrastructure that actually run it. Most people do one half. I like the seam between them.
 
 ---
 
-## `~/now`
+## ⚡ &nbsp;Now
 
 > ### **Postify** · AI-SMM startup — *Backend & DevOps*
 >
@@ -41,7 +41,7 @@ I'm 17 and I work across the whole path a model takes — research and training,
 
 ---
 
-## `~/competitions`
+## 🏆 &nbsp;Competitions
 
 <div align="center">
 
@@ -69,7 +69,7 @@ I'm 17 and I work across the whole path a model takes — research and training,
 
 ---
 
-## `~/teaching`
+## 🎓 &nbsp;Teaching
 
 Ran a two-week machine learning course for **20 students in grades 9–11** at the Samara Regional Centre for Gifted Children — **two years running**.
 
@@ -77,7 +77,7 @@ Ran a two-week machine learning course for **20 students in grades 9–11** at t
 
 ---
 
-## `~/stack`
+## 🛠 &nbsp;Stack
 
 <div align="center">
 
